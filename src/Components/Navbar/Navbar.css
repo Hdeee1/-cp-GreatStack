@@ -24,6 +24,6 @@ nav ul li {
 }
 
 .dark-nav {
-  background: rgb(8, 0, 58, 0.7);
+  background: rgba(8, 0, 58, 0.7);
   transition: 0.5s;
 }
