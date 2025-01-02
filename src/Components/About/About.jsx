@@ -2,7 +2,7 @@
 import React from "react";
 import "./About.css";
 import about_img from "../../assets/about.png";
-import about_play from "../../assets/play.png";
+import about_play from "../../assets/play-icon.png";
 
 const About = () => {
   return (
@@ -14,7 +14,7 @@ const About = () => {
 
       <div className="about-right">
         <h3>ABOUT UNIVERSITY</h3>
-        <h2>Nurturing Tomorrow's Leaders Today </h2>
+        <h2>Nurturing Tomorrow`s Leaders Today </h2>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic et
           obcaecati velit laudantium, error qui quia officia architecto itaque,
